@@ -1,0 +1,31 @@
+_repo: Kentucky-in-American-Letters-v.-2-of-21784-1912_39407
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39407-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Townsend, John Wilson
+    birthdate: 1885
+    deathdate: 1968
+    gutenberg_agent_id: '40439'
+    url: http://www.gutenberg.org/2009/agents/40439
+description: ''
+gutenberg_issued: '2012-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- Kentucky -- Bio-bibliography'
+- !lcsh 'Kentucky -- In literature'
+- !lcsh 'Kentucky -- Intellectual life'
+- !lcsh 'Authors, American -- Homes and haunts -- Kentucky'
+- !lcc 'PS'
+- !lcsh 'American literature -- Kentucky'
+- !lcsh 'Kentucky -- Literary collections'
+title: Kentucky in American Letters, 1784-1912. Vol. 2 of 2
+url: http://www.gutenberg.org/ebooks/39407
